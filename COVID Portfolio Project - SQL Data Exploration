@@ -1,16 +1,16 @@
-Used dataset from https://ourworldindata.org/covid-deaths
+--Used dataset from https://ourworldindata.org/covid-deaths
 
-//
+--//
 
-In order to perform Covid 19 Data Exploration
-Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+--In order to perform Covid 19 Data Exploration
+--Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
-//
+--//
 
-I have made 2 CSVs from the downloaded dataset CSV for Data Exploration Purposes 
-Then i have imported them to my SQL Server and to my database {CovidPortfolioProject.dbo.CovidDeaths & CovidPortfolioProject.dbo.Vaccinations}
+--I have made 2 CSVs from the downloaded dataset CSV for Data Exploration Purposes 
+--Then i have imported them to my SQL Server and to my database {CovidPortfolioProject.dbo.CovidDeaths & CovidPortfolioProject.dbo.Vaccinations}
 
-//
+--//
 
 SELECT *
 FROM CovidPortfolioProject.dbo.CovidDeaths
